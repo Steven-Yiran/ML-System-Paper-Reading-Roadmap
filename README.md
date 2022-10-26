@@ -8,3 +8,5 @@ This repo is a guide to learning about this dynamic, interdisplinary area of res
 This repo is inspired by Joseph E. Gonzalez's Machine Learning Systems course [[link]](https://ucbrise.github.io/cs294-ai-sys-fa19/)
 
 -----------------------------------------------------
+
+# 1. Big Ideas in ML Systems Research
